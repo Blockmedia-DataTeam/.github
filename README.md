@@ -43,7 +43,7 @@ The Blockmedia Data Team analyzes blockchain on-chain data and market data to pr
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 **Blockchain & API**
-<img src="https://img.shields.io/badge/CCXT-121212?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.py-3C3C3D?style=flat-square"/> <img src="https://img.shields.io/badge/Dune_Analytics-F37626?style=flat-square"/>
+<img src="https://img.shields.io/badge/CCXT-121212?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.py-3C3C3D?style=flat-square"/> <img src="https://img.shields.io/badge/CoinGecko-8DC351?style=flat-square&logo=CoinGecko&logoColor=white"/> <img src="https://img.shields.io/badge/Santiment-2C2C2C?style=flat-square"/>
 
 <br/>
 
