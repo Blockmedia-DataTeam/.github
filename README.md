@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://www.blockmedia.co.kr/wp-content/uploads/2019/02/bm_logo.png" width="200" alt="Blockmedia Logo">
+<img src="https://cdn.blockmedia.co.kr/wp-content/uploads/2024/07/Blockmedia_Logo_name.png" width="400" alt="Blockmedia Logo">
+
+<br/>
 
 # Blockmedia Data Team
 
