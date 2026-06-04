@@ -8,7 +8,7 @@
 
 **We provide data-driven insights to build a healthy Web3 ecosystem.**
 
-[Website](https://www.blockmedia.co.kr/) • [YouTube](https://www.youtube.com/blockmedia) • [Telegram](https://t.me/blockmedia)
+[Website](https://www.blockmedia.co.kr/) • [YouTube](https://www.youtube.com/blockmedia) • [Telegram](https://t.me/blockmedia) • [X](https://x.com/with_blockmedia)
 
 ---
 
